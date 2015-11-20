@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  QuestionsViewController.h
 //  trivia
 //
 //  Created by Filipe Almeida on 19/11/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface QuestionsViewController : UIViewController
 
 @end
-
